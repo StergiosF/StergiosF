@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on **[Cinematix](https://github.com/StergiosF/Cinematix)** <br/>
 🌱 I’m currently learning **React, Next.js and Tailwind CSS** <br/>
 👨‍💻 All of my projects are available at **https://github.com/StergiosF** <br/>
 💬 Ask me about **Web Development** <br/>
