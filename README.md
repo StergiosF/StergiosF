@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning **React, Next.js and Tailwind CSS** <br/>
-👨‍💻 All of my projects are available at **https://github.com/StergiosF** <br/>
+👨‍💻 All of my projects are available at **https://stergiosfotoglou.netlify.app/** <br/>
 💬 Ask me about **Web Development** <br/>
 📫 How to reach me **stfotoglou@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/stergiosfotoglou/)** <br/>
 
