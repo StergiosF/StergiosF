@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **React-Native, Next.js and Mobile Development** <br/>
+🌱 I’m currently learning **React Native, Next.js and Mobile Development** <br/>
 👨‍💻 All of my projects are available at **https://stergiosfotoglou.netlify.app/** <br/>
 💬 Ask me about **Web Development** <br/>
 📫 How to reach me **stfotoglou@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/stergiosfotoglou/)** <br/>
